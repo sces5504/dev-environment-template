@@ -1,5 +1,7 @@
 # 使用方式
 
+原始範本的實測結果與能力界線：`docs/template-verification.md`。
+
 ## 建立新專案
 
 1. 在GitHub使用此repo的 **Use this template**，建立公開的新repo；需要私人時由你改選。不選複製所有分支。
